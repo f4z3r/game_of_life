@@ -1,0 +1,9 @@
+[package]
+name = "game_of_life"
+version = "0.1.0"
+authors = ["Jakob Beckmann <beckmann_jakob@hotmail.fr>"]
+
+[dependencies]
+piston = "*"
+piston_window = "*"
+piston2d-opengl_graphics = "*"
